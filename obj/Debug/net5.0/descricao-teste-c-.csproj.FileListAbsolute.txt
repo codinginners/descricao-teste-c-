@@ -1,0 +1,16 @@
+C:\Users\Daniel\workspace\descricao-teste-c-\bin\Debug\net5.0\descricao-teste-c-.exe
+C:\Users\Daniel\workspace\descricao-teste-c-\bin\Debug\net5.0\descricao-teste-c-.deps.json
+C:\Users\Daniel\workspace\descricao-teste-c-\bin\Debug\net5.0\descricao-teste-c-.runtimeconfig.json
+C:\Users\Daniel\workspace\descricao-teste-c-\bin\Debug\net5.0\descricao-teste-c-.runtimeconfig.dev.json
+C:\Users\Daniel\workspace\descricao-teste-c-\bin\Debug\net5.0\descricao-teste-c-.dll
+C:\Users\Daniel\workspace\descricao-teste-c-\bin\Debug\net5.0\ref\descricao-teste-c-.dll
+C:\Users\Daniel\workspace\descricao-teste-c-\bin\Debug\net5.0\descricao-teste-c-.pdb
+C:\Users\Daniel\workspace\descricao-teste-c-\obj\Debug\net5.0\descricao-teste-c-.csproj.AssemblyReference.cache
+C:\Users\Daniel\workspace\descricao-teste-c-\obj\Debug\net5.0\descricao-teste-c-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\workspace\descricao-teste-c-\obj\Debug\net5.0\descricao-teste-c-.AssemblyInfoInputs.cache
+C:\Users\Daniel\workspace\descricao-teste-c-\obj\Debug\net5.0\descricao-teste-c-.AssemblyInfo.cs
+C:\Users\Daniel\workspace\descricao-teste-c-\obj\Debug\net5.0\descricao-teste-c-.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\workspace\descricao-teste-c-\obj\Debug\net5.0\descricao-teste-c-.dll
+C:\Users\Daniel\workspace\descricao-teste-c-\obj\Debug\net5.0\ref\descricao-teste-c-.dll
+C:\Users\Daniel\workspace\descricao-teste-c-\obj\Debug\net5.0\descricao-teste-c-.pdb
+C:\Users\Daniel\workspace\descricao-teste-c-\obj\Debug\net5.0\descricao-teste-c-.genruntimeconfig.cache
